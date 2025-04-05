@@ -1,8 +1,10 @@
 🚀 GitHub User Search 🔍
 A sleek and simple web app that allows you to search for any GitHub user by their username and fetch their profile using the GitHub API. Built with love and clean UI to make it super easy and fun to use!
 
+
 🔗 Live Demo
 👉 Click Here to Use the App
+
 
 🎯 Features
 🔍 Search any GitHub user by username
