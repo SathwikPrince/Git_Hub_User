@@ -1,10 +1,10 @@
+
 🚀 GitHub User Search 🔍
-A sleek and simple web app that allows you to search for any GitHub user by their username and fetch their profile using the GitHub API. Built with love and clean UI to make it super easy and fun to use!
+A sleek and simple web app that allows you to search for any GitHub user by their username and fetch their profile using the GitHub API. Built with ❤️ and a clean UI to make it super easy and fun to use!
 
+🔗 https://sathwikprince.github.io/Git_Hub_User/
 
-🔗 Live Demo
 👉 Click Here to Use the App
-
 
 🎯 Features
 🔍 Search any GitHub user by username
@@ -16,18 +16,18 @@ A sleek and simple web app that allows you to search for any GitHub user by thei
 ⚡ Fast and responsive search
 
 🛠️ Tech Stack
-HTML – For structuring the web page
+HTML – Structuring the webpage
 
-CSS – For styling and layout
+CSS – Styling and layout
 
-JavaScript – For handling API requests and DOM manipulation
+JavaScript – API requests and DOM manipulation
 
-GitHub API – To fetch real-time user data
+GitHub API – Fetching real-time user data
 
 💡 How It Works
 Enter any GitHub username in the input box
 
-Click on the Search button
+Click the Search button
 
 The app fetches data using GitHub’s public API
 
@@ -38,9 +38,9 @@ pgsql
 Copy
 Edit
 📦 GitHub User Search
- ┣ 📄 index.html
- ┣ 📄 style.css
- ┣ 📄 script.js
+┣ 📄 index.html
+┣ 📄 style.css
+┣ 📄 script.js
 📌 Future Enhancements
 🌐 Add user repositories section
 
@@ -53,3 +53,4 @@ Edit
 🧑‍💻 Developer Info
 Made with ❤️ by Sathwik Chinta
 🔗 GitHub Profile – https://github.com/sathwikprince
+
